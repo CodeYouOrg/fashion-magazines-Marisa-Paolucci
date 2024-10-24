@@ -1,6 +1,6 @@
 .vscode
 sql/solution.sql
-data/fashion_magazines.csv
+# data/fashion_magazines.csv - removed to push to github
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
